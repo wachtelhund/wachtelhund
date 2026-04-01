@@ -68,19 +68,6 @@
 
 <br>
 
-<!-- The stack -->
-```
-     📱  App         React Native · TypeScript · Angular
-     ↕
-     🌐  API         Python · Go · Node.js · REST
-     ↕
-     🔧  Firmware    Rust · C/C++ · MQTT · OTA
-     ↕
-     ⚡  Hardware    Inverters · Batteries · Energy Gateway
-```
-
-<br>
-
 <!-- Snake animation -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wachtelhund/wachtelhund/output/github-snake-dark.svg" />
